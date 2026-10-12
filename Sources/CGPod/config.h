@@ -1,0 +1,6 @@
+#define GETTEXT_PACKAGE "libgpod"
+#define HAVE_G_CHECKSUM_RESET 1
+#define HAVE_ZLIB 1
+#define HAVE_G_INT64_HASH 1
+#define HAVE_G_INT64_EQUAL 1
+#define HAVE_GDKPIXBUF 1
